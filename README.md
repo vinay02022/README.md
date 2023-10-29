@@ -1,10 +1,11 @@
-👋 Hi, I’m Vinay Pandey , I am Full Stack Developer Enthusiast
+👋 Hi, I’m Vinay Pandey , I am Product Er.
 
 👀 I’m interested in Tech, Entrepreneurship, and Problem Solving.
 
 🌱 I’m currently Working On my Backend Skill.
 
-💞️ I’m looking to Join an Organisation where I can challenge myself Every day & skill up By Working On projects and Contributing the Same.
+💞️ I’m looking to Join an Organisation where I can challenge myself Every day & skill up By Working On projects , help Users,and Contributing the Same.
+
 
 📫 **How To reach Me:-
 Mobile:8882737198
