@@ -33,8 +33,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinay-pandey-b16449171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-pandey-b16449171/" height="30" width="40" /></a>
-<a href="https://instagram.com/alymxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alymxd" height="30" width="40" /></a>
-<a href="https://hashnode.com/@techieallie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@techieallie" height="30" width="40" /></a>
+<a href="https://instagram.com/vinaypandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alymxd" height="30" width="40" /></a>
+<a href="[https://hashnode.com/@techieallie](https://www.crio.do/learn/portfolio/vinay-pandey-criodo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@techieallie" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/VinayPandey022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="www.leetcode.com/VinayPandey022" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +45,7 @@
  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   <br>
-  [![Vinay Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-pandey-b16449171&theme=synthwave&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Vinay Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay02022&theme=synthwave&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
   ## Streak and Competetive Record
@@ -62,7 +62,7 @@
 
 
 📫 **How To reach Me:-
-Mobile:8882737198
+Mobile:7837004491
 📧 Email:- techievinay01@gmail.com
 Linkedin: https://www.linkedin.com/in/vinay-pandey-b16449171/
 
