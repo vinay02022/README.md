@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vinay-pandey-b16449171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-pandey-b16449171/" height="30" width="40" /></a>
 <a href="https://instagram.com/vinaypandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alymxd" height="30" width="40" /></a>
-<a href="[https://hashnode.com/@techieallie](https://www.crio.do/learn/portfolio/vinay-pandey-criodo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@techieallie" height="30" width="40" /></a>
+<a href="[https://hashnode.com/@techieallie](https://www.crio.do/learn/portfolio/vinay-pandey-criodo/)" target="blank"><img align="center" src="https://medium.com/@techievinay01" alt="https://medium.com/@techievinay01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/VinayPandey022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="www.leetcode.com/VinayPandey022" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
