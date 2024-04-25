@@ -1,11 +1,3 @@
-👋 Hi, I’m Vinay Pandey , I am Software Er.
-
-👀 I’m interested in Tech, Entrepreneurship, and Problem Solving.
-
-🌱 I’m currently Working On my Backend Skill.
-
-💞️ I’m looking to Join an Organisation where I can challenge myself Every day & skill up By Working On projects , help Users,and Contributing in the Business Growth.
-
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -15,18 +7,22 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
   
-</h1>
-<div  align="center" style="font-family: calibri; font-size: 18px; font-weight: bold;">
-  
-
-  <strong>
-<li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
-<li>👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
-<li>Love to Build Product from 0 to 1 </li>
+</h1>  
+<strong>
+    <li>👋 Hi, I’m Vinay Pandey , I am Software Er.</li>
+    <li>👀 I’m interested in Tech, Entrepreneurship, and Problem Solving.</li>
+    <li>🌱 I Love Shipping Features and Enhance Product Quality .</li>
+  <li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
+  <li>👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
+  <li>Love to Build Product from 0 to 1 </li>
 
   </strong> 
-  <hr>
+
+💞️ I’m looking to Join an Organisation where I can challenge myself Every day Build What really matters & skill up By Working On projects , help Users,and Contributing in the Business Growth.
+
+<div  align="center" style="font-family: calibri; font-size: 18px; font-weight: bold;">
   
+  <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypandey022&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypandey" /> </p>
 
