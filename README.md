@@ -33,8 +33,7 @@
    <a href="https://twitter.com/Princep13855622" target="blank">
       <img src="https://img.shields.io/twitter/follow/Princep13855622?logo=twitter&style=for-the-badge" alt="Princep13855622" >
     </a>
-    <a href="https://instagram.com/vinaypandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/instagram.svg" alt="alymxd" height="30" width="40" /></a>
-    <a href="[https://hashnode.com/@techieallie](https://www.crio.do/learn/portfolio/vinay-pandey-criodo/)" target="blank"></a>
+   <a href="[https://hashnode.com/@techieallie](https://www.crio.do/learn/portfolio/vinay-pandey-criodo/)" target="blank"></a>
     <a href="https://www.leetcode.com/VinayPandey022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="www.leetcode.com/VinayPandey022" height="30" width="40" /></a>
    
   
